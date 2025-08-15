@@ -1,0 +1,16 @@
+form{
+    width: 300px;
+    background-color: beige;
+
+    padding: 10px;
+
+    border: 2px dashed pink;
+}
+
+h1{
+    text-align: center;
+}
+label {
+    display: inline-block;
+    width: 100px;
+}
